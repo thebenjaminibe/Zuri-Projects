@@ -13,11 +13,12 @@ img{
     display: block;
     width: 200px;
     height: 200px;
-    margin: 0 100px;
+    margin: 0 300px;
 }
 
 #img-caption{
     font-size: 11px;
+    text-align: center;
 }
 
 div#tribute-info{
@@ -25,6 +26,7 @@ div#tribute-info{
     box-shadow: 20px 20px 15px gray;
     padding: 5px 10px;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 h1.title{
